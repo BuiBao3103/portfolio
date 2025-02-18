@@ -19,36 +19,29 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with programming and have discovered my passion for
+              backend development.
               <br />
-              <br />I am fluent in classics like
+              <br />
+              As a final-year Software Engineering student, I've gained
+              experience with
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> various technologies and frameworks</b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My journey has equipped me with strong
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                <b className="purple"> problem-solving skills </b> and deep
+                understanding of{" "}
+                <b className="purple">software architecture principles.</b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              I'm eager to learn and contribute to meaningful projects while
+              growing alongside{" "}
               <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple">experienced developers</b>
               </i>
             </p>
           </Col>
